@@ -1,0 +1,16 @@
+C:\Users\happy\Desktop\验证IP\ValidateIP\bin\Release\ValidateIP.exe
+C:\Users\happy\Desktop\验证IP\ValidateIP\bin\Release\ValidateIP.pdb
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.Frm_Main.resources
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.Properties.Resources.resources
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.csproj.GenerateResource.cache
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.exe
+C:\Users\happy\Desktop\验证IP\ValidateIP\obj\Release\ValidateIP.pdb
+E:\验证IP\ValidateIP\bin\Release\ValidateIP.exe
+E:\验证IP\ValidateIP\bin\Release\ValidateIP.pdb
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.Frm_Main.resources
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.Properties.Resources.resources
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.csproj.GenerateResource.cache
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.csproj.CoreCompileInputs.cache
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.exe
+E:\验证IP\ValidateIP\obj\Release\ValidateIP.pdb
